@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "rollno": 122,
+      "name": "ram",
+      "city": "bhoapl",
+      "fees": 20000,
+      "id": "94d2"
+    },
+    {
+      "id": "2372",
+      "rollno": "32",
+      "name": "dds",
+      "city": "32",
+      "fees": "200000"
+    }
+  ]
+}
